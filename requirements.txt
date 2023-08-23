@@ -5,4 +5,6 @@ robotframework-requests==0.9.4
 robotframework-appiumlibrary==2.0.0
 robotframework-seleniumlibrary==6.0.0
 robotframework-sshlibrary==3.8.0
+robotframework-tidy==3.5.0
+robotframework-robocop==2.8.1
 robotframework-pythonlibcore==4.1.2
