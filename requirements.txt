@@ -1,0 +1,8 @@
+selenium==4.8.2
+setuptools
+robotframework==6.0.2
+robotframework-requests==0.9.4
+robotframework-appiumlibrary==2.0.0
+robotframework-seleniumlibrary==6.0.0
+robotframework-sshlibrary==3.8.0
+robotframework-pythonlibcore==4.1.2
