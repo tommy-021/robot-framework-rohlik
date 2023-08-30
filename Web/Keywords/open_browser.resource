@@ -5,9 +5,9 @@ Resource    ./web_test_variables.resource
 
 *** Keywords ***
 Open Browser to Webpage
-    [Documentation]    dfkhskjhfjs
-    [Arguments]    ${page_url}    ${browser}
-    Open Browser    ${page_url}   browser=${browser}
+    [Documentation]    Prihlasi se do weboveho prohlizece
+    [Arguments]    ${page_url}    ${browser}=${BROWSER}
+    Open Browser    ${page_url}   ${browser}
     Maximize Browser Window
     Accept Cookies
 
